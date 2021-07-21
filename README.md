@@ -1,6 +1,6 @@
 # TO-DO-
 To-do web application
 ## steps
-Write you task.
-Click on ADD.
-To remove an item click on close sign beside item.
+1.Write you task.
+2.Click on ADD.
+3.To remove an item click on close sign beside item.
